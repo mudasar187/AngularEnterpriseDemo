@@ -14,7 +14,7 @@ $ git clone git@github.com:mudasar187/AngularEnterpriseDemo.git
  - concurrently
 
 
-#### Start project
+#### To start project
 ```sh
 $ npm run start
 ```
